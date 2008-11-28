@@ -5,5 +5,8 @@ class Home < Application
   def index
     render
   end
-  
+
+  def hello
+    "I got #{params[:url]}"
+  end
 end
