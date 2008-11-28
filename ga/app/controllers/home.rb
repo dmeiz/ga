@@ -7,6 +7,6 @@ class Home < Application
   end
 
   def hello
-    "I got #{params[:url]}"
+    "cb('I gotzt #{params[:url]}')"
   end
 end
