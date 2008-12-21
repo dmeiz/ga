@@ -1,0 +1,18 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: Configure prod env with passenger
+desc: ""
+type: :task
+component: ga
+release: 
+reporter: Dan <dan@methodhead.com>
+status: :unstarted
+disposition: 
+creation_time: 2008-12-21 20:57:44.967408 Z
+references: []
+
+id: ac9d601b0a7ff9366eb519f3cfc5ac090574e6e5
+log_events: 
+- - 2008-12-21 20:57:46.199474 Z
+  - Dan <dan@methodhead.com>
+  - created
+  - ""

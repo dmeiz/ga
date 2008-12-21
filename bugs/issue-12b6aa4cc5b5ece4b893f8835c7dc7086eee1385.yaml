@@ -1,0 +1,18 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: Intercept ga calls
+desc: ""
+type: :task
+component: ga
+release: 
+reporter: Dan <dan@methodhead.com>
+status: :unstarted
+disposition: 
+creation_time: 2008-12-21 20:59:05.210124 Z
+references: []
+
+id: 12b6aa4cc5b5ece4b893f8835c7dc7086eee1385
+log_events: 
+- - 2008-12-21 20:59:05.753908 Z
+  - Dan <dan@methodhead.com>
+  - created
+  - ""

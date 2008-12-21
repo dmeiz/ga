@@ -1,0 +1,18 @@
+--- !ditz.rubyforge.org,2008-03-06/issue 
+title: Scrape ga
+desc: ""
+type: :task
+component: ga
+release: 
+reporter: Dan <dan@methodhead.com>
+status: :unstarted
+disposition: 
+creation_time: 2008-12-21 20:58:22.360631 Z
+references: []
+
+id: 91c41460b75e80f57e65edc712a297659f100352
+log_events: 
+- - 2008-12-21 20:58:23.104721 Z
+  - Dan <dan@methodhead.com>
+  - created
+  - ""
